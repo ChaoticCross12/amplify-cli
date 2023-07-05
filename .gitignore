@@ -82,7 +82,7 @@ amplify-integ*/
 console-integ*/
 packages/amplify-storage-simulator/lib
 packages/*-template-provider/lib
-packages/*-runtime-provider/lib
+packages/*-runtime-provider/libeifj
 packages/amplify-function-plugin-interface/lib
 packages/amplify-java-function-runtime-provider/resources/localinvoke/.gradle/
 packages/amplify-java-function-runtime-provider/resources/localinvoke/lib/
